@@ -6,7 +6,7 @@
 /*   By: rvandepu <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/12 19:22:27 by rvandepu          #+#    #+#             */
-/*   Updated: 2023/07/12 19:39:20 by rvandepu         ###   ########.fr       */
+/*   Updated: 2023/07/13 19:28:10 by rvandepu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,7 +28,7 @@ int	*ft_range(int min, int max)
 	return (t);
 }
 
-int	main(int argc, char *argv[])
+/*int	main(int argc, char *argv[])
 {
 	int	i;
 	int	min;
@@ -47,4 +47,4 @@ int	main(int argc, char *argv[])
 	}
 	else
 		printf("Usage: %s <min> <max>\n", argv[0]);
-}
+}*/
